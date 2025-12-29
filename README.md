@@ -32,14 +32,12 @@ The project emphasizes clean C# implementation of core gameplay mechanics.
 - Dependencies managed via `Packages/manifest.json` (e.g., DOTween, TextMeshPro)
 
 ## Project Structure
-Assets/
-├── Scripts/     # Core gameplay logic and systems (main focus)
-├── Scenes/      # Game scenes
-ProjectSettings/ # Unity project settings
-Packages/
-├── manifest.json     # Package dependencies
-.gitignore       # Ignores large/generated files
-text## How to Open (Optional – for reviewers)
+- Assets/Scripts/     # Core gameplay logic and systems (main focus)
+- Assets/Scenes/      # Game scenes
+- ProjectSettings/ # Unity project settings
+- Packages/manifest.json     # Package dependencies
+- .gitignore       # Ignores large/generated files
+## How to Open (Optional – for reviewers)
 1. Clone this repository
 2. Open the folder in Unity Hub
 3. Use **Unity 6000.1.7f1** (recommended for full compatibility)
