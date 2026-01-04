@@ -43,6 +43,7 @@ The playable build is available on itch.io.
 - ProjectSettings/ # Unity project settings
 - Packages/manifest.json     # Package dependencies
 - .gitignore       # Ignores large/generated files
+
 ## How to Open (Optional – for reviewers)
 1. Clone this repository
 2. Open the folder in Unity Hub
