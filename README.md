@@ -3,7 +3,7 @@
 **A mystical card game inspired by Kazakh nomadic shamanic healing rituals.**  
 Players perform sacred healing rituals across four seasonal loops: draw Disease cards representing pain and negative energy, then place Healing cards on a ritual grid. Manage the Shaman’s Hand to absorb and transform suffering, while balancing spirit power through color resonance, season cycles, cycle clashes, and toxic harmony—without letting power drop to zero.
 
-**Playable WebGL Demo** ➜ [https://betapbo.itch.io/ainalu](https://betapbo.itch.io/ainalu)  
+**Playable Demo** ➜ [https://betapbo.itch.io/ainalu](https://betapbo.itch.io/ainalu)  
 (Highly recommended to play it first! The page includes full gameplay trailer, animated GIFs, screenshots, and detailed rules.)
 
 Submitted to GMTK Game Jam 2025.
