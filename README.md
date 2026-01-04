@@ -12,6 +12,12 @@ Submitted to GMTK Game Jam 2025.
 This repository contains the **Unity source code** (programming-focused) for Ainalu.  
 The project emphasizes clean C# implementation of core gameplay mechanics.
 
+## Repository Scope
+This repository focuses on gameplay programming and system design.  
+For clarity and review purposes, only core scripts, scenes, and project settings are included.  
+The playable build is available on itch.io.
+
+
 ### My Contributions (Programming)
 - Implemented full core gameplay loop:
   - Grid-based card placement system
